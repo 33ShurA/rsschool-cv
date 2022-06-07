@@ -1,4 +1,3 @@
-![](https://github.com/33ShurA/rsschool-cv/blob/gh-pages/profileFoto.png)
 ## **1. Andrei Shurpik**
 ## **2. Contacts for communication**
 ###   - *email:* **33ashurpik@gmail.com**
